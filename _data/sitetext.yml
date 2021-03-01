@@ -56,6 +56,24 @@ team:
     text: "We have qualified and professional staff"
     subtext: a supervisor, Early Childhood Educators (ECEs), Infant and Toddler Educators (ITEs), Special Needs Educators, and Early Childhood Education Assistants (ECEAs) as specified by the Child Care Licensing Regulations. Our staff continues their education through workshops, conferences, and may take courses that will enhance their ability to support and educate children.
     section: team
+    
+clients:
+    section: 고객사
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "에듀스마트 in Canada"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "블래스터"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+      - title: "Swink"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/themeforest.jpg
+      - title: "CLC centre in Vancouver"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
 contact:
     title: "Contact Us"
