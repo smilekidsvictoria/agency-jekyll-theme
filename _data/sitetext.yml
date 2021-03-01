@@ -74,9 +74,7 @@ clients:
       - title: "CLC centre in Vancouver"
         url: https://www.google.com
         logo: assets/img/clients/creative-market.jpg
-     subtext: a supervisor, Early Childhood Educators (ECEs), Infant and Toddler Educators (ITEs), Special Needs Educators, and Early Childhood Education Assistants (ECEAs) as specified by the Child Care Licensing Regulations. Our staff continues their education through workshops, conferences, and may take courses that will enhance their ability to support and educate children.
-
-
+        
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
