@@ -14,10 +14,10 @@ services:
         icon: far fa-smile #find more at https://fontawesome.com/icons
       - title: "We"
         desc: "provides quality care, with ages ranging from infancy to pre-school in Victoria, B.C, Canada. Our priority is to provide a safe, and respectful environment."
-        icon: fas fa-laptop       
-      - title: "We"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-canadian-maple-leaf       
+      - title: "Also"
+        desc: "We give our support in stimulating early childhood education."
+        icon: fas fa-baby-carriage
 
 portfolio:
     title: "Program"
