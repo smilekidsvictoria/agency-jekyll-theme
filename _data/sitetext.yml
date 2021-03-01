@@ -56,28 +56,11 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
     
 team:
     title: "STAFF"
     text: "We have qualified and professional staff"
-    subtext: text.
+    subtext: a supervisor, Early Childhood Educators (ECEs), Infant and Toddler Educators (ITEs), Special Needs Educators, and Early Childhood Education Assistants (ECEAs) as specified by the Child Care Licensing Regulations. Our staff continues their education through workshops, conferences, and may take courses that will enhance their ability to support and educate children.
     section: team
     people:
       - name: "Kay Garland"
