@@ -30,7 +30,8 @@ portfolio:
 
 timeline:
     title: "Curriculum" 
-    text: "Lorem ipsum timeline"
+    text: "The program of SMILEKIDS childcare is play-based. Play-based learning is a type of early
+childhood education. This program focuses on children and how they interact with their surroundings through play. Children learn best while playing. Their learning ability is innate and develops through a variety of play experiences. Children's play begins early on, and their competence is developed through it. Play-based learning is helping children experience the content of the curriculum while showing the value of learning in an engaging form. The curriculum starts from observation and support of children's play. "
     section: timeline
     # left is the default
     #start_align: "left"
