@@ -20,14 +20,14 @@ services:
         icon: fab fa-markdown
 
 portfolio:
-    title: "Pgrgram"
+    title: "Program"
     text: "Our programs"
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close"
     
 
 timeline:
-    title: "About" 
+    title: "Curriculum" 
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -81,8 +81,8 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "OUR STAFF"
+    text: "Our amazing staff."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
