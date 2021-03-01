@@ -39,7 +39,7 @@ header.masthead {
         @include serif-font;
       }
       .intro-heading {
-        font-size: 14px;
+        font-size: 14px; //본문크기 원래 75였다
         font-weight: 700;
         line-height: 75px;
         margin-bottom: 50px;
