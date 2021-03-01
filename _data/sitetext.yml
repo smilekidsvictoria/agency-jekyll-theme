@@ -47,16 +47,6 @@ emotional development. It helps children establish their character while making 
         desc: "Play makes up most of a young child’s life, we use this to encourage content, method and process learning. During play children use their curiosity to connect with the world around them. This is how they explore their surroundings."
         image: assets/img/timeline/2.jpg
         alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt: 
         # you can enforce the aligment
         align: right
     end: "Be Part <br> of Our <br> Story!"
