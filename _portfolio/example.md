@@ -12,11 +12,10 @@ alt: image alt text
 
 ---
 내용을 보내주시면 **이부분에** 원하시는 내용을 적어드립니다.
-<!--
-optional info list (delete if not using):
 
-{:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
--->
+#optional info list (delete if not using):
+
+#{:.list-inline} 
+#- Date: 
+#- Client: 
+#- Category:
