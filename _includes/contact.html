@@ -1,49 +1,5 @@
-<!-- Contact -->
-  <section class="page-section" id="{{ site.data.sitetext.contact.section | default: "contact" }}">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12 text-center">
-          <h2 class="section-heading text-uppercase">{{ site.data.sitetext.contact.title | markdownify | default: Contact Us }}</h2>
-          <h3 class="section-subheading text-muted">{{ site.data.sitetext.contact.text | default: "" }}</h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col-lg-12">
-          <form id="contactForm" action="https://formspree.io/{% if site.formspree_form_path %}{{ site.formspree_form_path }}{% else %}{{ site.email }}{% endif %}" novalidate="novalidate" method="POST">
-		  <!--name="sentMessage"-->
-            <div class="row">
-              <div class="col-md-6">
-                <div class="form-group">
-                  <input name="name" class="form-control" id="name" type="text" placeholder="Name*" required="required" data-validation-required-message="Please enter your name.">
-                  <p class="help-block text-danger"></p>
-                </div>
-                <div class="form-group">
-                  <input name="_replyto" class="form-control" id="email" type="email" placeholder="Email*" required="required" data-validation-required-message="Please enter your email address.">
-                  <p class="help-block text-danger"></p>
-                </div>
-                <div class="form-group">
-                  <input name="phone" class="form-control" id="phone" type="tel" placeholder="Phone Number*" required="required" data-validation-required-message="Please enter your phone number.">
-                  <p class="help-block text-danger"></p>
-                </div>
-              </div>
-              <div class="col-md-6">
-                <div class="form-group">
-                  <textarea name="message" class="form-control" id="message" placeholder="Message*" required="required" data-validation-required-message="Please enter a message."></textarea>
-                  <p class="help-block text-danger"></p>
-                </div>
-              </div>
-			  <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-              <div class="clearfix"></div>
-              <div class="col-lg-12 text-center">
-                <div id="success"></div>
-                <button id="sendMessageButton" class="btn btn-primary btn-xl text-uppercase" type="submit">Send Message</button>
-              </div>
-			  <input type="text" name="_gotcha" style="display:none">
-			  <input type="hidden" name="_next" value="#"/>
-            </div>
-          </form>
-        </div>
-      </div>
-    </div>
-  </section>
-<!-- End Contact -->
+
+<section class="bg-light page-section" id="{{ site.data.sitetext.contact.section | default: "contact" }}">
+    <div class="typeform-widget" data-url="https://form.typeform.com/to/P46qj3u9?typeform-medium=embed-snippet" style="width: 100%; height: 500px;"></div>
+    <script>(function () { var qs, js, q, s, d = document, gi = d.getElementById, ce = d.createElement, gt = d.getElementsByTagName, id = "typef_orm", b = "https://embed.typeform.com/"; if (!gi.call(d, id)) { js = ce.call(d, "script"); js.id = id; js.src = b + "embed.js"; q = gt.call(d, "script")[0]; q.parentNode.insertBefore(js, q) } })()</script>
+</section>
