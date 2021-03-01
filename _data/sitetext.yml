@@ -67,7 +67,6 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          align: right
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
