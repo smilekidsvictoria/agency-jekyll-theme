@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: 코딩교육
-  subtitle: 비주얼 스크립팅
-  thumbnail: https://place-hold.it/400x300
+  title: Downtown Centre
+  subtitle: Infant/Toddler
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
   
 #what displays when the item is clicked:
 title: 코딩교육
