@@ -5,18 +5,18 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
   
 #what displays when the item is clicked:
-title: 코딩교육
-subtitle: ClC CENTRE 코딩교육.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Downtown Centre
+subtitle: Infant/Toddler
+image: assets/img/portfolio/01-full.jpg
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
-
+내용을 보내주시면 **이부분에** 원하시는 내용을 적어드립니다.
+<!--
 optional info list (delete if not using):
 
 {:.list-inline} 
 - Date: 
 - Client: 
 - Category: 
-
+-->
