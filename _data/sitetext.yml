@@ -36,13 +36,14 @@ childhood education. This program focuses on children and how they interact with
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Purpose and goals of play"
+        year: ""
+        desc: "Play helps children to achieve healthy and harmonious development. Especially in social and
+emotional development. It helps children establish their character while making responsible decisions and understanding differences between themselves and others. Children recognize and manage their emotions while they play with others. They learn how to show empathy and how to maintain positive relationships through play."
         image: assets/img/timeline/1.jpg
         alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "The meaning of the play"
+        year: ""
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/2.jpg
         alt: 
