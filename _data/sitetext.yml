@@ -56,17 +56,7 @@ team:
     text: "We have qualified and professional staff"
     subtext: a supervisor, Early Childhood Educators (ECEs), Infant and Toddler Educators (ITEs), Special Needs Educators, and Early Childhood Education Assistants (ECEAs) as specified by the Child Care Licensing Regulations. Our staff continues their education through workshops, conferences, and may take courses that will enhance their ability to support and educate children.
     section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
 contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
