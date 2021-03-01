@@ -83,9 +83,9 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: tel:6047165482
-        icon: "fab fa-twitter"  
-      - url: mailto:xkiwis@gmail.com
-        icon: "fab fa-facebook-f"
+      - url: tel:2508844126
+        icon: "fas fa-phone-alt"  
+      - url: mailto:mysmilekids.adm@gmail.com
+        icon: "fas fa-envelope"
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
