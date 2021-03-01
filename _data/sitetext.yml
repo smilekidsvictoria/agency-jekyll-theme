@@ -10,13 +10,15 @@ services:
     section: services
     list:
       - title: "Smilekids"
-        desc: "is an incorporated childcare facility that opened in 2020 and is licensed through the Ministry of Children and Family"
+        desc: "programs are designed to meet the individual child's basic developmental needs. These needs include: social, physical, emotional, intellectual, creative, and self-concept, while also responding to families' needs. Children’s interactions will not only consist of peer interactions but also with staff who are trained to pick up on children’s needs."
         icon: far fa-smile #find more at https://fontawesome.com/icons
-      - title: "We"
-        desc: "provides quality care, with ages ranging from infancy to pre-school in Victoria, B.C, Canada. Our priority is to provide a safe, and respectful environment."
+      - title: "Themes"
+        desc: "are used to develop the child's knowledge of their world, this will be integrated within the learning activity Centre whenever possible. SMILEKIDS will support and supplement parental care for children in a quality setting. 
+The program supports all children's right, regardless of their diverse abilities, to participate
+actively in a natural environment with their community."
         icon: fab fa-canadian-maple-leaf       
-      - title: "Also"
-        desc: "We give our support in stimulating early childhood education."
+      - title: "Our"
+        desc: "Caregiving philosophy is based on respect. Each child's natural pace and level of development is supported. Each child is encouraged to learn about their world through play and become a self-learner. Communication, cooperation, and respect between educators and parents are considered essential. This ensures consistent care and consideration of each child and family's unique needs."
         icon: fas fa-baby-carriage
 
 portfolio:
