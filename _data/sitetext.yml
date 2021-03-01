@@ -75,9 +75,12 @@ clients:
         logo: assets/img/clients/creative-market.jpg
     
 team:
-    title: "OUR STAFF"
-    text: "Our amazing staff."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "STAFF"
+    text: "We have qualified and professional staff"
+    subtext: a supervisor, Early Childhood
+Educators (ECEs), Infant and Toddler Educators (ITEs), Special Needs Educators, and
+Early Childhood Education Assistants (ECEAs) as specified by the Child Care Licensing
+Regulations. Our staff continues their education through workshops, conferences, and may take courses that will enhance their ability to support and educate children.
     section: team
     people:
       - name: "Kay Garland"
