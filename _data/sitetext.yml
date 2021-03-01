@@ -63,16 +63,16 @@ clients:
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "에듀스마트 in Canada"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com
         logo: assets/img/clients/envato.jpg
       - title: "블래스터"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com
         logo: assets/img/clients/designmodo.jpg
       - title: "Swink"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com
         logo: assets/img/clients/themeforest.jpg
       - title: "CLC centre in Vancouver"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com
         logo: assets/img/clients/creative-market.jpg
 
 contact:
