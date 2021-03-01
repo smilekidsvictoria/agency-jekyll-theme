@@ -13,15 +13,15 @@ services:
         desc: "is an incorporated childcare facility that opened in 2020 and is licensed through the Ministry of Children and Family"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "We"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "provides quality care, with ages ranging from infancy to pre-school in Victoria, B.C, Canada. Our priority is to provide a safe, and respectful environment."
         icon: fas fa-laptop       
       - title: "We"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Pgrgram"
+    text: "Our programs"
     section: portfolio
     closebutton: "Close Project"
     
