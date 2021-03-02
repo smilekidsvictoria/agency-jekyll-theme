@@ -65,7 +65,7 @@ contact:
 footer:
     legal: "Privacy Policy"
     social:
-      - url: tel:2508844126
+      - url: tel:+12508844126
         icon: "fas fa-phone-alt"  
       - url: mailto:mysmilekids.adm@gmail.com
         icon: "fas fa-envelope"
