@@ -25,7 +25,7 @@ portfolio:
     title: "Program"
     text: "Our programs"
     section: portfolio
-    #closebutton: "Close"
+    closebutton: "Close"
     
 
 timeline:
