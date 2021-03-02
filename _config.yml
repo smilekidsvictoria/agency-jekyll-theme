@@ -13,13 +13,13 @@
 
 theme: jekyll-agency
 
-url    : "http://smilekidsvictoria.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://smilekidschildcare.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : SmileKidsChildCare
-email      : xkiwis@gmail.com #this is also the email contact forms will go to
+title      : SmileKids Childcare
+email      : smilekids.adm@gmail.com #this is also the email contact forms will go to
 description: "Located at victoria, eirly ChildCareCentre"
-author     : Aiden JI
+author     : SmileKids Childcare
 logo:     #optional, defaults to site title
 path: assets\img\clients\creative-market.jpg
 height: 60 #height in px, defaults to 52px
