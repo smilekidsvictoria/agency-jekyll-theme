@@ -6,7 +6,7 @@ header:
 
 services:
     title: "About us"
-    text: "SmileKidsChildcare"
+    text: "SmileKids Childcare"
     section: services
     list:
       - title: "Smilekids"
