@@ -9,5 +9,10 @@ caption:
   subtitle: Multi-Age
   thumbnail: assets/img/portfolio/03-thumbnail.jpg
 ---
+Multi-Aged Licensed Centre (11months - Pre-school)
 
-내용을 보내주시면 **이부분에** 원하시는 내용을 적어드립니다.
+The multi-aged group consists of **8 children** with a qualified
+Early Childhood Educator (ECE). This is a home based childcare
+facility. It includes a safe, nurturing and stimulating environment.
+This allows for more sibling interactions and bonding time with an
+educator in a smaller cozy environment.
