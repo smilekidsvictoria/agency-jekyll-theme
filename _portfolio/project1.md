@@ -9,5 +9,10 @@ caption:
   subtitle: Multi-Age
   thumbnail: assets/img/portfolio/02-thumbnail.jpg
 ---
+**840 Cormorant st**
+The Multi-Age Group (2.5 years - preschool-age)
 
-내용을 보내주시면 **이부분에** 원하시는 내용을 적어드립니다.
+The multi-age group consists of six children accompanied by
+a responsible Early Child Educator (ECE). The children learn
+in a peer setting, while continuing to receive support with
+their individual needs.
