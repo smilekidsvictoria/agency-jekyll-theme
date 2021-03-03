@@ -17,7 +17,7 @@ url    : "https://smilekidschildcare.com" # the base hostname & protocol for you
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : SmileKids Childcare
-email      : smilekids.adm@gmail.com #this is also the email contact forms will go to
+email      : mysmilekids.adm@gmail.com #this is also the email contact forms will go to
 description: "Located at victoria, eirly ChildCareCentre"
 author     : SmileKids Childcare
 logo:     #optional, defaults to site title
