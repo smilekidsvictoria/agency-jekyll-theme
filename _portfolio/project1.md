@@ -1,14 +1,17 @@
 ---
-title: Downtown Centre
-subtitle: Multi-Age
-image: assets/img/portfolio/02-full.jpg
-alt: Shirts on a hanger
-
-caption:
+caption: #what displays in the portfolio grid:
   title: Downtown Centre
-  subtitle: Multi-Age
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  subtitle: Infant/Toddler
+  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  
+#what displays when the item is clicked:
+title: Downtown Centre
+subtitle: Infant/Toddler
+image: assets/img/portfolio/01-full.jpg
+alt: image alt text
+
 ---
 **840, Cormorant st., Victoria, BC V8W 1R1** Business hour: 08:00~17:00  
-The Multi-Age Group (2.5 years - preschool-age) The multi-age group consists of six children accompanied by a responsible Early Child Educator (ECE). The children learn in a peer setting, while continuing to receive support with their individual needs.  
-[**Contact us**](https://37be2d10fns.typeform.com/to/P46qj3u9){:target="_blank"}
+Infant/Toddler (0 - 36 months) class The infant/toddler group consists of 12 children.  
+The room is comprised of an Infant/Toddler, Educator (ITE) and two Early Childhood Educators (ECE). Activities are arranged based on the children's interests and developmental stages.  
+[**Contact us**](https://37be2d10fns.typeform.com/to/P46qj3u9){:target="_blank"}  
