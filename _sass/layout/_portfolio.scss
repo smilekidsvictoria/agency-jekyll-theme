@@ -22,7 +22,7 @@
           opacity: 1;
         }
         .portfolio-hover-content {
-          font-size: 20px;
+          font-size: 4px;
           position: absolute;
           top: 50%;
           width: 100%;
@@ -65,7 +65,7 @@
 @media(min-width:767px) {
   #portfolio {
     .portfolio-item {
-      margin: 0 0 20px;
+      margin: 0 0 30px;
     }
   }
 }
